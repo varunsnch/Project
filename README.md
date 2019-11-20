@@ -1,4 +1,4 @@
-The StudentCourse Project has been developed with as Springboot RESTAPI Microservice
+The StudentCourse Project has been developed with Springboot RESTAPI Microservice
 To run this project simply import project as maven and do maven clean and maven install
 Run the springboot project and the project starts on port 8091
 The project supports H2-Database and at the time of initializing, it check if the entity tables exist in the H2-Database.

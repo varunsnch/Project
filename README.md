@@ -1,7 +1,7 @@
 The StudentCourse Project has been developed with Springboot RESTAPI Microservice
 To run this project simply import project as maven and do maven clean and maven install
 Run the springboot project and the project starts on port 8091
-The project supports H2-Database and at the time of initializing, it check if the entity tables exist in the H2-Database.
+The project supports H2-Database and at the time of initializing, it checks if the entity tables exist in the H2-Database.
 If the Tables does not exist, it creates all the tables along with the Entity-Mappings (One-to-Many, Many-to-Many).
 The project has three main mappings : Student, Course, EnrollmentDetails
 The Student and Course Entity has one-to-many mapping with EnrollmentDetail
